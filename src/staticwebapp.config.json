@@ -10,8 +10,7 @@
       "statusCode": 302,
       "redirect": "/.auth/login/google"
     }
-  }
-},
+  },
   "auth": {
     "identityProviders": {
       "google": {
@@ -22,3 +21,4 @@
       }
     }
   }
+}
